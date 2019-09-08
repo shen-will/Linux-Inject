@@ -1,0 +1,4 @@
+*.txt
+*.o
+libx
+cmake-build-debug
