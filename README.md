@@ -7,3 +7,12 @@ ELF文件感染的几种常见方式
 * text段填充
 
 通过寄生代码调用宿主进程libc符号/加载动态库实现
+
+elf-inject
+  代码注入工具
+  make / make install
+
+libx 
+  地址无关代码库/libc符号调用/动态库加载
+  make/make install
+  
